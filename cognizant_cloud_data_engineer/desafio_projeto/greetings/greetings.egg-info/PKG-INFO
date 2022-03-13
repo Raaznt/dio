@@ -19,17 +19,18 @@ Description.
 
 Use the package manager to install the package
 
-'''bash
+```bash
 pip install greetings
-'''
+```
 
 ## Usage
 
-'''python
+```python
 from greetings.greeting import phrases
 phrases.my_function()
-'''
+```
 
 ## Author
 Raimundo Azevedo
+
 
