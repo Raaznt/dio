@@ -1,0 +1,35 @@
+Metadata-Version: 2.1
+Name: greetings
+Version: 0.0.1
+Summary: Pacote criado como desafio de código no curso da DIO.
+Home-page: github.com/raaznt/greetings.git
+Author: Raimundo Azevedo
+Author-email: raaznt@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Greetings
+
+Description.
+    The package greeting is used as a pratice named "desafio de projeto" on DIO course platform.
+
+## Installation
+
+Use the package manager to install the package
+
+'''bash
+pip install greetings
+'''
+
+## Usage
+
+'''python
+from greetings.greeting import phrases
+phrases.my_function()
+'''
+
+## Author
+Raimundo Azevedo
+
