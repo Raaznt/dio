@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: greetings-pkg
+Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Raimundo Azevedo
+Author-email: raaznt@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+#Greetings
+
+The "Greetings" package is a package used on DIO's course exercise named "desafio de projeto"
+
+##Installation
+
+To install use the package manager pip as follows:
+
+```bash
+pip install greetings
+```
+
+##Usage
+```python
+from greetings.greeting import phrases
+phrases.hello()
+```
+
+

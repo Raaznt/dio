@@ -1,0 +1,9 @@
+README.md
+setup.py
+greetings/__init__.py
+greetings/phrases/__init__.py
+greetings/phrases/phrases.py
+greetings_pkg.egg-info/PKG-INFO
+greetings_pkg.egg-info/SOURCES.txt
+greetings_pkg.egg-info/dependency_links.txt
+greetings_pkg.egg-info/top_level.txt
